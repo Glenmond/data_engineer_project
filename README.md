@@ -5,7 +5,7 @@
 4. Code Description
 
 ## 1. Project Description
-Our project aims to create an automated ETL pipeline solution to process data files on a regular interval. This project will be using cron (workflow tool) as a job scheduling component.
+Our project aims to create an automated ETL pipeline solution to process data files on a regular interval. This project will be using cron (workflow tool) as a job scheduling component. Refer to my personal github link: https://github.com/Glenmond/data_engineer_project
 
 ## 2. Installation
 #### Libraries
